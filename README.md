@@ -1,5 +1,5 @@
 # iTunes-Library-Revenue-Genre-Visualization
-**Media Type**
+Media Type
 <div align="center">
   <img src="PieChart.png" width="600" />
 </div>
