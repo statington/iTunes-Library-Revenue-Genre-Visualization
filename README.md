@@ -12,3 +12,14 @@ Media Type
 <div align="center">
   <img src="Revenue by Genre.png" width="1300" />
 </div>
+
+Genre Popularity by Country
+Top 3 Genres - Rock, Latin, Metal
+<div align="center">
+  <img src="Revenue by Genre.png" width="1300" />
+</div>
+
+The Rest
+<div align="center">
+  <img src="Revenue by Genre.png" width="1300" />
+</div>
