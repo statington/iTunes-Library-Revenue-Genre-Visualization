@@ -13,6 +13,7 @@ Data model represents a digital media store, including tables for artists, album
 
 # Key Insights
 Media Type
+MPEG audio file  account for the majority of revenue, while AAV audio file and MPEG vido file remains a niche market.
 <div align="center">
   <img src="PieChart.png" width="600" />
 </div>
@@ -21,7 +22,7 @@ Media Type
   <img src="Monthly Revenue Trend.png" width="1000" />
 </div>
 
-
+Latin, Metal, and Rock dominate in most regions.
 <div align="center">
   <img src="Revenue by Genre.png" width="1300" />
 </div>
@@ -37,4 +38,4 @@ The Rest
   <img src="TheRestGenres.png" width="1000" />
 </div>
 
-Latin, Metal, and Rock dominate in certain regions
+
