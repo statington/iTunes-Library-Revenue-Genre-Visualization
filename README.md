@@ -23,7 +23,7 @@ Need to consider phasing out low-performing formats (e.g., AAC and MPEG video) o
 ### Genre Popularity ###
 **Revenue by Genre**
 <div align="center">
-  <img src="Revenue by Genre.png" width="1300" />
+  <img src="Revenue.png" width="1300" />
 </div>
 
 **Genre Popularity by Country**
