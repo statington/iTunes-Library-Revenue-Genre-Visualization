@@ -27,12 +27,13 @@ Need to consider phasing out low-performing formats (e.g., AAC and MPEG video) o
 </div>
 
 **Genre Popularity by Country**
-Top 3 Genres - Rock, Latin, Metal
+
+***Top 3 Genres - Rock, Latin, Metal***
 <div align="center">
   <img src="Top3Genres.png" width="1000" />
 </div>
 
-**The Rest**
+***The Rest***
 <div align="center">
   <img src="TheRestGenres.png" width="1000" />
 </div>
